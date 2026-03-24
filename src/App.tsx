@@ -48,7 +48,7 @@ function App() {
             <li>
               <a href="https://react.dev/" target="_blank">
                 <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
+                Register Branch
               </a>
             </li>
           </ul>
@@ -58,6 +58,7 @@ function App() {
             <use href="/icons.svg#social-icon"></use>
           </svg>
           <h2>Connect with us</h2>
+           <h2>Register Branch</h2>
           <p>Join the Vite community</p>
           <ul>
             <li>
