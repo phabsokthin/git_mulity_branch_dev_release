@@ -38,6 +38,16 @@ function Card() {
       >
         Card Component For New Version
       </div>
+
+       <div
+        style={{
+          background: "red",
+          padding: "10px",
+          border: "1px solid red",
+        }}
+      >
+        Card Component For New Version123
+      </div>
     </div>
   );
 }
