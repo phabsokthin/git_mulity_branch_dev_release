@@ -5,5 +5,4 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: '/git_mulity_branch_dev_release/',
   plugins: [react()],
-  base: '/git_mulity_branch_dev_release/',
 })
