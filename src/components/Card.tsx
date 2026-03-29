@@ -59,6 +59,8 @@ function Card() {
         Card Component For New Version123222
       </div>
     </div>
+
+    
   );
 }
 
